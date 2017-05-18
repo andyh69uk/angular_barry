@@ -1,0 +1,70 @@
+{
+  "sheds": [
+            {
+              "id" : "1",
+              "status": "green",
+              "out_of_shed": false,
+              "start-time" : "00:00:00",
+              "end-time" : "00:00:00",
+              "created-on" : "1494960495",
+              "created-by" : "sid",
+              "updated-on" : "1494960595",
+              "updated-by" : "sid",
+              "amounts": [
+                                {
+                                  "amount" : "270000",
+                                  "ch-os-na" : "",
+                                  "status" : "green"
+                                },
+                                {
+                                  "amount" : "300000",
+                                  "ch-os-na" : "ch",
+                                  "status" : "yellow"
+                                },
+                                {
+                                  "amount" : "125000",
+                                  "ch-os-na" : "",
+                                  "status" : "green"
+                                },
+                                {
+                                  "amount" : "115000",
+                                  "ch-os-na" : "os",
+                                  "status" : "red"
+                                }
+              ]
+            },
+            {
+              "id" : "2",
+              "status": "yellow",
+              "out_of_shed": false,
+              "start-time" : "00:00:00",
+              "end-time" : "00:00:00",
+              "created-on" : "1494960495",
+              "created-by" : "sid",
+              "updated-on" : "1494960595",
+              "updated-by" : "sid",
+              "amounts": [
+                {
+                  "amount" : "270000",
+                  "ch-os-na" : "",
+                  "status" : "green"
+                },
+                {
+                  "amount" : "300000",
+                  "ch-os-na" : "ch",
+                  "status" : "yellow"
+                },
+                {
+                  "amount" : "125000",
+                  "ch-os-na" : "",
+                  "status" : "green"
+                },
+                {
+                  "amount" : "115000",
+                  "ch-os-na" : "os",
+                  "status" : "red"
+                }
+              ]
+            }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "tools": [
+    {
+      "id" : "1",
+      "asni_reference" : "UNIQUE-ASNI-REF",
+      "amount" : "2101000",
+      "soil" : "SOIL123",
+      "callsign" : "ACALL",
+      "df" : "some df",
+      "path_to_cut" : "PATH_TO_CUT",
+      "traffic" : "traffic data",
+      "start-time" : "00:00:00",
+      "end-time" : "00:00:00",
+      "created-on" : "1494960495",
+      "created-by" : "sid"
+    },
+    {
+      "id" : "2",
+      "asni_reference" : "UNIQUE-ASNI-REF",
+      "amount" : "2101000",
+      "soil" : "SOIL123",
+      "callsign" : "ACALL",
+      "df" : "some df",
+      "path_to_cut" : "PATH_TO_CUT",
+      "traffic" : "traffic data",
+      "start-time" : "00:00:00",
+      "end-time" : "00:00:00",
+      "created-on" : "1494960495",
+      "created-by" : "sid"
+    },
+    {
+      "id" : "3",
+      "asni_reference" : "UNIQUE-ASNI-REF",
+      "amount" : "2101000",
+      "soil" : "SOIL123",
+      "callsign" : "ACALL",
+      "df" : "some df",
+      "path_to_cut" : "PATH_TO_CUT",
+      "traffic" : "traffic data",
+      "start-time" : "00:00:00",
+      "end-time" : "00:00:00",
+      "created-on" : "1494960495",
+      "created-by" : "sid"
+    }
+  ]
+}

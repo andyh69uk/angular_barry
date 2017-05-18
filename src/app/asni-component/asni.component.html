@@ -1,0 +1,22 @@
+<div id="view-asni">
+
+  <h2>View ASNI</h2>
+  <p>ASNI id: {{ get_asni_id() }}</p>
+
+  <app-shed-list></app-shed-list>
+  <app-calls-list></app-calls-list>
+  <app-tools-list></app-tools-list>
+
+  <p>Created on: {{ get_created_on() }}</p>
+  <p>Created by: {{ get_created_by() }}</p>
+  <p>Updated on: {{ get_updated_on() }}</p>
+  <p>Updated by: {{ get_updated_by() }}</p>
+
+
+  <!-- RADIO BUTTON -->
+  <p>Enabled: {{ get_is_enabled() }}</p>
+
+  <button alt="Edit asni" id="edit-asni-button">Edit</button>
+  <button href="#" alt="Delete asni" id="delete-asni-button" disabled>Delete</button>
+
+</div>

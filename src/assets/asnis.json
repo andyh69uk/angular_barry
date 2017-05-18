@@ -1,0 +1,31 @@
+{
+  "asnis": [
+    {
+      "id" : "1",
+      "asni_reference" : "UNIQUE-ASNI-REF_1",
+      "enabled" : true,
+      "created-on" : "1494960495",
+      "created-by" : "sid",
+      "updated-on" : "1494960595",
+      "updated-by" : "sid"
+    },
+    {
+      "id" : "2",
+      "asni_reference" : "UNIQUE-ASNI-REF_2",
+      "enabled" : true,
+      "created-on" : "1494960495",
+      "created-by" : "sid",
+      "updated-on" : "1494960595",
+      "updated-by" : "sid"
+    },
+    {
+      "id" : "3",
+      "asni_reference" : "UNIQUE-ASNI-REF_3",
+      "enabled" : false,
+      "created-on" : "1494960495",
+      "created-by" : "sid",
+      "updated-on" : "1494960595",
+      "updated-by" : "sid"
+     }
+   ]
+}
