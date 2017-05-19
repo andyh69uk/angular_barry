@@ -6,7 +6,7 @@
   "apps": [
     {
       "root": "src",
-      "outDir": "dist",
+      "outDir": "/Users/user/Desktop/hello",
       "assets": [
         "assets",
         "favicon.ico"

@@ -10,7 +10,7 @@ export class AsnisService {
   fetchData()
   {
     // get data from .json file and console log the data
-    return this.http.get('../../assets/asnis.json').map(
+    return this.http.get('/assets/asnis.json').map(
       (response) => response.json()
     );
   }
