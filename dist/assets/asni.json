@@ -1,0 +1,141 @@
+{
+  "id" : "1",
+  "ansi_reference" : "UNIQUE-ASNI-REF",
+  "enabled" : true,
+  "created-on" : "1494960495",
+  "created-by" : "sid",
+  "updated-on" : "1494960595",
+  "updated-by" : "sid",
+  "sheds": [
+            {
+              "id" : "1",
+              "status": "green",
+              "out_of_shed": false,
+              "start-time" : "00:00:00",
+              "end-time" : "00:00:00",
+              "created-on" : "1494960495",
+              "created-by" : "sid",
+              "updated-on" : "1494960595",
+              "updated-by" : "sid",
+              "amounts": [
+                                {
+                                  "amount" : "270000",
+                                  "ch-os-na" : "",
+                                  "status" : "green"
+                                },
+                                {
+                                  "amount" : "300000",
+                                  "ch-os-na" : "ch",
+                                  "status" : "yellow"
+                                },
+                                {
+                                  "amount" : "125000",
+                                  "ch-os-na" : "",
+                                  "status" : "green"
+                                },
+                                {
+                                  "amount" : "115000",
+                                  "ch-os-na" : "os",
+                                  "status" : "red"
+                                }
+              ]
+            },
+            {
+              "id" : "2",
+              "status": "yellow",
+              "out_of_shed": false,
+              "start-time" : "00:00:00",
+              "end-time" : "00:00:00",
+              "created-on" : "1494960495",
+              "created-by" : "sid",
+              "updated-on" : "1494960595",
+              "updated-by" : "sid",
+              "amounts": [
+                {
+                  "amount" : "270000",
+                  "ch-os-na" : "",
+                  "status" : "green"
+                },
+                {
+                  "amount" : "300000",
+                  "ch-os-na" : "ch",
+                  "status" : "yellow"
+                },
+                {
+                  "amount" : "125000",
+                  "ch-os-na" : "",
+                  "status" : "green"
+                },
+                {
+                  "amount" : "115000",
+                  "ch-os-na" : "os",
+                  "status" : "red"
+                }
+              ]
+            }
+  ],
+  "calls": [
+                {
+                  "id" : "1",
+                  "ansi_id" : "1",
+                  "call" : "ACALL",
+                  "ch-os-na" : "",
+                  "end-time" : "00:00:00",
+                  "created-on" : "1494960495",
+                  "created-by" : "sid"
+                },
+                {
+                  "id" : "2",
+                  "ansi_id" : "1",
+                  "call" : "ACALL",
+                  "ch-os-na" : "",
+                  "end-time" : "00:00:00",
+                  "created-on" : "1494960495",
+                  "created-by" : "sid"
+                }
+  ],
+  "intercepts": [
+                  {
+                    "id" : "1",
+                    "ansi_id" : "1",
+                    "amount" : "2101000",
+                    "soil" : "SOIL123",
+                    "call" : "ACALL",
+                    "df" : "some df",
+                    "path_to_cut" : "PATH_TO_CUT",
+                    "traffic" : "traffic data",
+                    "start-time" : "00:00:00",
+                    "end-time" : "00:00:00",
+                    "created-on" : "1494960495",
+                    "created-by" : "sid"
+                  },
+                  {
+                    "id" : "2",
+                    "ansi_id" : "1",
+                    "amount" : "2101000",
+                    "soil" : "SOIL123",
+                    "call" : "ACALL",
+                    "df" : "some df",
+                    "path_to_cut" : "PATH_TO_CUT",
+                    "traffic" : "traffic data",
+                    "start-time" : "00:00:00",
+                    "end-time" : "00:00:00",
+                    "created-on" : "1494960495",
+                    "created-by" : "sid"
+                  },
+                  {
+                    "id" : "3",
+                    "ansi_id" : "2",
+                    "amount" : "2101000",
+                    "soil" : "SOIL123",
+                    "call" : "ACALL",
+                    "df" : "some df",
+                    "path_to_cut" : "PATH_TO_CUT",
+                    "traffic" : "traffic data",
+                    "start-time" : "00:00:00",
+                    "end-time" : "00:00:00",
+                    "created-on" : "1494960495",
+                    "created-by" : "sid"
+                  }
+  ]
+}

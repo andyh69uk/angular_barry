@@ -1,0 +1,22 @@
+{
+  "calls": [
+    {
+      "id" : "1",
+      "asni_id" : "1",
+      "call" : "ACALL",
+      "ch-os-na" : "",
+      "end-time" : "00:00:00",
+      "created-on" : "1494960495",
+      "created-by" : "someone"
+    },
+    {
+      "id" : "2",
+      "asni_id" : "1",
+      "call" : "ACALL",
+      "ch-os-na" : "",
+      "end-time" : "00:00:00",
+      "created-on" : "1494960495",
+      "created-by" : "someone"
+    }
+  ]
+}
